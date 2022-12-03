@@ -21,3 +21,4 @@ Check the below model for visual understanding how it can be used in mlops
 
 [Good starting point to know about prefect](https://medium.com/@kaanboke/step-by-step-prefect-implementations-lets-orchestrate-the-workflows-9b3d09053c19)
 
+More info about converting python scipts to prefect flows and tasks, creating storage ( local , cloud etc), creating deployments and atlast invoking agents to execute the scheduled flow at [github page](https://gist.github.com/gowtham07/d6fb11f6308e59248eec3a83f19faca4)
